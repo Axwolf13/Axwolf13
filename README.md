@@ -21,4 +21,4 @@ Saarbrücken, Germany · [axwolf13.github.io](https://axwolf13.github.io) · [ak
 
 Long-form write-ups of benchmarks and reproductions live at [axwolf13.github.io/writing](https://axwolf13.github.io/writing/), published when there's something real to show.
 
-Open to Werkstudent and internship roles in ML, data science and applied AI from August 2026.
+Open to Werkstudent and internship roles in ML, data science and applied AI from October 2026.
