@@ -6,7 +6,7 @@ Saarbrücken, Germany · [axwolf13.github.io](https://axwolf13.github.io) · [ak
 
 ## Publication
 
-**Real-time yoga pose estimation with a hybrid MoveNet architecture**, first-author, *Sādhanā* (Indian Academy of Sciences, Springer, 2025). A Thunder-train, Lightning-infer split that classifies 11 asanas at 98.8% test accuracy (98.4% verified on the shipped quantized model — reproduce it with `verify_model.py`) while holding 30+ FPS on consumer hardware.
+**Real-time yoga pose estimation with a hybrid MoveNet architecture**, first-author, *Sādhanā* (Indian Academy of Sciences, Springer, 2025). A Thunder-train, Lightning-infer split that classifies 11 asanas at 98.8% test accuracy (98.4% verified on the shipped quantized model reproduce it with `verify_model.py`) while holding 30+ FPS on consumer hardware.
 
 [Paper (DOI)](https://doi.org/10.1007/s12046-025-02788-w) · [Code](https://github.com/Axwolf13/pose-estimation-movenet) · [Live browser demo](https://axwolf13.github.io/demo/)
 
