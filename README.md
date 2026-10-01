@@ -12,7 +12,7 @@ Saarbrücken, Germany · [axwolf13.github.io](https://axwolf13.github.io) · [ak
 
 ## Selected work
 
-- **[molca-reproduction](https://github.com/Axwolf13/molca-reproduction):** A reproduction of MolCA (EMNLP 2023), a language model that reads molecules both as text and as graphs. Reproduced on two machines (62.32 and 62.77 BLEU-2 against the paper's 62.0), then the experiment the paper never ran: give it one molecule's text and another molecule's graph. It describes the graph's molecule about 90% of the time. [Write-up](https://axwolf13.github.io/writing/molca/)
+- **[molca-reproduction](https://github.com/Axwolf13/molca-reproduction):** A reproduction of MolCA (EMNLP 2023), a language model that reads molecules both as text and as graphs. Reproduced on two machines (62.32 and 62.77 BLEU-2 against the paper's 62.0), then the experiment the paper never ran: give it one molecule's text and another molecule's graph. It describes the graph's molecule in about 90% of the cases where it clearly picks one. [Write-up](https://axwolf13.github.io/writing/molca/)
 - **[arabic-doc-triage-research](https://github.com/Axwolf13/arabic-doc-triage-research):** Benchmarking Arabic OCR (Surya, PaddleOCR) and Arabic-to-German translation on an 8 GB laptop GPU. KITAB-Bench evaluation, confidence-based failure routing and the safety signals a triage pipeline needs before its output reaches a human decision. [Write-up](https://axwolf13.github.io/writing/arabic-ocr-benchmarks/)
 - **[dodi-analysis](https://github.com/Axwolf13/dodi-analysis):** DODI, a deterministic index scoring how hard a platform's Terms of Service works to hide that "Buy now" means "revocable licence". Ten platforms across 2015–2024, checked against ToS;DR's human grades and three LLM judges from two vendors. v2 weighs each contract against what the store actually promised, using archived purchase pages. Also runs as an MCP server, so AI agents can call the scorer as a tool. [Write-up](https://axwolf13.github.io/writing/dodi/) · [LLM-judge write-up](https://axwolf13.github.io/writing/llm-judge/)
 - **[dodi-web](https://github.com/Axwolf13/dodi-web):** the DODI scorer shipped as a public web service: FastAPI app, Dockerized, test suite, CI on every push, deployed on Render. [Score any ToS live](https://dodi-web.onrender.com/)
@@ -23,4 +23,4 @@ Saarbrücken, Germany · [axwolf13.github.io](https://axwolf13.github.io) · [ak
 
 Long-form write-ups of benchmarks and reproductions live at [axwolf13.github.io/writing](https://axwolf13.github.io/writing/), published when there's something real to show.
 
-Open to a Master's thesis topic from late 2027, research collaborations and conversations about evaluating models and agents.
+Open to a Master's thesis topic for summer 2027, research collaborations and conversations about evaluating models and agents.
